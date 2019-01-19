@@ -209,6 +209,7 @@ public class BuscaBrayans extends JFrame {
 
 	// ------------------------------------------------------------------------------------
 	public static void main(String[] args) {
+		System.out.println("Arranca el Busca Brayans ATR");
 		BuscaBrayans buscaminas = new BuscaBrayans(20, 20, 150);
 		buscaminas.setVisible(true);
 	}
