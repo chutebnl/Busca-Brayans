@@ -9,6 +9,7 @@ import javax.swing.JPanel;
 public class CampoDeBrayans extends JPanel {
 	/**
 	 *un comentario de prueba para github 18/07/2019 
+	 *otro comentario de prueba
 	 */
 	private static final long serialVersionUID = 1L;
 	private int filas, columnas, cantidadDeBrayans, ranchosMarcados, ranchosNoMinadas, ranchosActivados;

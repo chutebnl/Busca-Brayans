@@ -23,9 +23,6 @@ import javax.swing.Timer;
 
 public class BuscaBrayans extends JFrame {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 	private JMenuBar barraMenu;
 	private JMenu menuDificultad, mas;
@@ -137,7 +134,7 @@ public class BuscaBrayans extends JFrame {
 		menuDificultad.add(miPersonalizar);
 		barraMenu.add(menuDificultad);
 
-		mas = new JMenu("Qué es este botón?");
+		mas = new JMenu("Quï¿½ es este botï¿½n?");
 		acercaDe = new JMenuItem("Acerca de");
 		acercaDe.addActionListener(new ActionListener() {
 
